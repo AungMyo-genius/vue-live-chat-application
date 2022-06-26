@@ -4,7 +4,8 @@ import { getFirestore,
          collection,
          addDoc,
          onSnapshot,
-         query } from "firebase/firestore"
+         query,
+         orderBy } from "firebase/firestore"
 
 import { getAuth,
          createUserWithEmailAndPassword,
@@ -42,4 +43,5 @@ export { db
         ,addDoc
         ,onSnapshot
         ,query
+        ,orderBy
 }
