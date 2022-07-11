@@ -1,4 +1,7 @@
 # live-chat-application
+Live URL - https://vue-live-chat-12f38.firebaseapp.com/
+email - test123
+pw - test123
 
 ## Project setup
 ```
